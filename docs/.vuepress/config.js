@@ -19,6 +19,11 @@ module.exports = {
           ]
         }
       ],
-      smoothScroll: true
+      smoothScroll: true,
+      sidebar: {
+        '/subject/english/': [
+          'word-analysis'
+        ]
+      }
     }
   }
