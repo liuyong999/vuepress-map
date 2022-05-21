@@ -19,3 +19,11 @@ title: 词义辨析
 - much too 意为“太，非常”，用作副词词组，是too的强调说法，用法与too相似，修饰形容词或副词，不可修饰动词。
 - too much 意为“太多，过多”，是much的强调说法，用法与much相似，修饰不可数名词或动词；作主语、表语状语等。
 ---
+
+base，basis，basic
+
+and so on,and so forth
+
+advice,suggest
+
+edition,version

@@ -36,6 +36,10 @@ module.exports = {
           link: '/defense/' 
         },
         {
+          text: '思考',
+          link: '/thinking/'
+        },
+        {
           text: '学科',
           items: [
             { 
